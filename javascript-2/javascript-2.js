@@ -35,7 +35,11 @@ let foods = [
   and then adding the results together. 
 */
 
-//CODE HERE
+foods.forEach(calorieCalc) {
+
+}
+
+function calorieCalc(carbs, protien, fat)
 
 //////////////////////////////////PROBLEMS 2-4//////////////////////////////////
 /*
